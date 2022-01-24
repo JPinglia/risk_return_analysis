@@ -1,4 +1,4 @@
-# risk_return_analysis
+# Jas's Risk Adusted Return Analysis
 
 
 Technologies
@@ -8,15 +8,19 @@ Pathlib
 Matplotlib
 Numpy
 
+
 Installation Guide
 Python 3.7.11 - base installation is required. PIP install jupyterlab
+
 
 Usage
 Assumptions:
 
 
+
 Contributors
 This program was developed with base code developed by the Rice-boot-camp. Code was created and added by JPinglia.
+
 
 License
 License for this project and associated file is public.
