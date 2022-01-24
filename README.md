@@ -12,7 +12,7 @@ Principals of:
 are utilized to to help us determine an optimal protfolio offering.
 
 
-##Technologies:
+## Technologies:
 
 The program is written using Jupyter notebooks, for ease of code reading and code execution via code blocks. The program lays out a step-wise reporting and program execution. The code is run in a (apidev) environment with the use of the following libraries:
   1) Pandas
@@ -21,20 +21,20 @@ The program is written using Jupyter notebooks, for ease of code reading and cod
   4) Numpy
 
 
-##Installation Guide
+## Installation Guide
 
 Python 3.7.11 - base installation is required. PIP install jupyterlab
 
 
-##Usage
+## Usage
 
 Assumptions:
 
 1) Risk Free Rate = 0 % in the Sharpe Ratio
 
-##Contributors
+## Contributors
 This program was developed with base code developed by the Rice-boot-camp. Code was created and added by JPinglia.
 
 
-##License
+## License
 License for this project and associated file is public.
